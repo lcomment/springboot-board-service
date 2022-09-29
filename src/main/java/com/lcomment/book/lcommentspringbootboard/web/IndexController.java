@@ -21,6 +21,4 @@ public class IndexController {
     public String postsSave() {
         return "posts-save";
     }
-
-
 }
