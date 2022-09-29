@@ -13,7 +13,7 @@ var main = {
         });
 
         // 삭제 버튼 클릭시 delete 함수 동작
-        $('btn-delete').on('click', function () {
+        $('#btn-delete').on('click', function () {
             _this.delete();
         });
     },
